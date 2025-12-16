@@ -1,5 +1,7 @@
 ╔════════════════════════════════╗
 
+![Banner](jinwooHDNew.gif)
+
 ## Hi 👋 I'm Kirwl
 
 Fullstack developer with a strong focus on backend.
