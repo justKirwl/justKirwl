@@ -1,4 +1,8 @@
-![Banner](jinwooHDNew.gif)
+<div style="width: 100%; height: 4px; background: linear-gradient(to right, #000428, #004e92);"></div>
+
+<p align="center">
+  <img src="jinwooHDNew.gif" alt="Banner" style="width:100%; max-width:100%;">
+</p>
 
 # Hi 👋 I'm Kirwl
 
@@ -43,3 +47,5 @@ practical experience and learning.
 <p align="center">
   <img alt="Kirwl's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=justKirwl&show_icons=true&theme=tokyonight" />
 </p>
+
+<div style="width: 100%; height: 4px; background: linear-gradient(to right, #000428, #004e92); margin-top:20px;"></div>
