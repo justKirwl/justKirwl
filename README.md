@@ -1,5 +1,3 @@
-╔════════════════════════════════╗
-
 ![Banner](jinwooHDNew.gif)
 
 ## Hi 👋 I'm Kirwl
@@ -36,4 +34,4 @@ practical experience and learning.
 - Clean and readable code
 - Practical projects for continuous growth
 
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=justKirwl&show_icons=true&theme=radical)
