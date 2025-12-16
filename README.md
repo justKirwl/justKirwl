@@ -1,3 +1,5 @@
+╔════════════════════════════════╗
+
 ## Hi 👋 I'm Kirwl
 
 Fullstack developer with a strong focus on backend.
@@ -31,3 +33,5 @@ practical experience and learning.
 - Fullstack web development
 - Clean and readable code
 - Practical projects for continuous growth
+
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
