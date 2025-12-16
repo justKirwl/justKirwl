@@ -35,6 +35,7 @@ practical experience and learning.
 - Fullstack web development
 - Clean and readable code
 - Practical projects for continuous growth
+- **LeetCode:** [kirwl-leet](https://leetcode.com/u/kirwl-Xd/)
 
 ---
 
